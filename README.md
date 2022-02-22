@@ -1,5 +1,5 @@
-# mobile-websocket-gamepad
- A cross-platform remote control application that interacts with multimedia controllers, communicating with peripherals via websockets and virtual keys using Windows API.
+# Remote Control
+A cross-platform remote control application that interacts with multimedia controllers, communicating with peripherals via websockets and virtual keys using Windows API.
 
 ## Server Setup
 
